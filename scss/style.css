@@ -49,6 +49,7 @@ button, .btn {
   -webkit-transition: all .2s;
   transition: all .2s;
   text-align: center;
+  outline: none;
 }
 
 button:hover, .btn:hover {
